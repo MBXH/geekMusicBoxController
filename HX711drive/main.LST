@@ -1,0 +1,106 @@
+C51 COMPILER V9.00   MAIN                                                                  05/26/2018 01:58:56 PAGE 1   
+
+
+C51 COMPILER V9.00, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN main.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE main.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include <reg52.h>
+   2          #define uint unsigned int
+   3          #define uchar unsigned char
+   4          #define ulong unsigned long
+   5          //ms延时函数
+   6          void delay (uint ms) {
+   7   1          uchar a,b;
+   8   1          for(a=3; a>0; a--) {
+   9   2              for(b=245; b>0; b--)
+  10   2                  for (; ms > 0; ms--);
+  11   2          }
+  12   1      }
+  13          //功能:串口初始化,波特率9600
+  14          void   URATinit( ) {
+  15   1          TMOD=0x20;
+  16   1          SCON=0x50;
+  17   1          EA=1;
+  18   1          ES=1;
+  19   1          TR1=1;
+  20   1          TH1=0xfd;
+  21   1          TL1=0xfd;
+  22   1          TI=0;
+  23   1      }
+  24          //发送函数
+  25          void send(uchar msg) {
+  26   1          ES=0;
+  27   1          TI=0;
+  28   1          SBUF=msg;
+  29   1          while(!TI);
+  30   1          TI=0;
+  31   1          ES=1;
+  32   1      }
+  33          //接收压力数据
+  34          sbit ADDO=P2^7;
+  35          sbit ADSK=P2^6;
+  36          ulong readCount(void) {
+  37   1          unsigned long count;
+  38   1          unsigned char i;
+  39   1          ADSK=0;
+  40   1          count=0;
+  41   1          while(ADDO);
+  42   1          for(i=0; i<24; i++) {
+  43   2              ADSK=1;
+  44   2              count<<=1;
+  45   2              ADSK=0;
+  46   2              if(ADDO)
+  47   2                  count++;
+  48   2          }
+  49   1          ADSK=1;
+  50   1          count=count^0x800000;
+  51   1          ADSK=0;
+  52   1          return(count);
+  53   1      }
+  54          //发送int
+  55          void send32bit(ulong msg) {
+C51 COMPILER V9.00   MAIN                                                                  05/26/2018 01:58:56 PAGE 2   
+
+  56   1          ulong temp=0xff;
+  57   1          int i=0;
+  58   1          for(i=0; i<4; i++) {
+  59   2              uchar byteMsg=(uchar)(msg&temp);
+  60   2              send(byteMsg);
+  61   2              msg>>=8;
+  62   2          }
+  63   1      }
+  64          //接收函数
+  65          uchar Buffer;
+  66          void receive() interrupt 4 {
+  67   1          if(RI) {
+  68   2              Buffer=SBUF;
+  69   2              RI=0;
+  70   2          }
+  71   1      }
+  72          ulong msg;
+  73          //主函数
+  74          void  main() {
+  75   1          URATinit( );
+  76   1          while(1) {
+  77   2              send('$');
+  78   2              send32bit(readCount());
+  79   2              delay(100);
+  80   2          }
+  81   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    212    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =      5       9
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
