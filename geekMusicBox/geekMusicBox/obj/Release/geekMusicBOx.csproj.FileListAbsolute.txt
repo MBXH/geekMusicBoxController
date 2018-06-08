@@ -1,0 +1,46 @@
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBOx.csprojResolveAssemblyReference.cache
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\串口监测马达信息.Drawer.resources
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\串口监测马达信息.Form1.resources
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.Properties.Resources.resources
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBOx.csproj.GenerateResource.Cache
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\bin\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\bin\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\V1.5（正式版）\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\bin\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\bin\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.csprojResolveAssemblyReference.cache
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.Drawer.resources
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.Form1.resources
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.Properties.Resources.resources
+C:\Users\10618\Desktop\geek controller\串口监测马达信息\串口监测马达信息\obj\Release\geekMusicBox.csproj.GenerateResource.Cache
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csprojResolveAssemblyReference.cache
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Drawer.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Form1.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Properties.Resources.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csproj.GenerateResource.Cache
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.exe
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.pdb
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\Interop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\AxInterop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\Interop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\AxInterop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csproj.ResolveComReference.cache
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\geekMusicBox.exe
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\geekMusicBox.pdb
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\Interop.WMPLib.dll
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Release\AxInterop.WMPLib.dll
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csprojResolveAssemblyReference.cache
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\Interop.WMPLib.dll
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\AxInterop.WMPLib.dll
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csproj.ResolveComReference.cache
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Drawer.resources
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Form1.resources
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.Properties.Resources.resources
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.csproj.GenerateResource.Cache
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.exe
+F:\熊浩\比赛&学习\geek\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Release\geekMusicBox.pdb

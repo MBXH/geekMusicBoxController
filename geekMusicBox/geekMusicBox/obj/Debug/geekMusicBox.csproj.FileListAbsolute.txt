@@ -1,0 +1,13 @@
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\Interop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.csproj.ResolveComReference.cache
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Debug\geekMusicBox.exe
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Debug\geekMusicBox.pdb
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Debug\Interop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.Drawer.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.Form1.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.Properties.Resources.resources
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.csproj.GenerateResource.Cache
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.exe
+C:\Users\10618\Desktop\geekMusicBoxController\geekMusicBox\geekMusicBox\obj\Debug\geekMusicBox.pdb
